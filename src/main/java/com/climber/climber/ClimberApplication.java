@@ -8,6 +8,7 @@ public class ClimberApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ClimberApplication.class, args);
+        System.out.println("Hello World!");
     }
 
 }
